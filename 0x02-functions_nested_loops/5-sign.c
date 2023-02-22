@@ -2,7 +2,7 @@
 
 /**
  * print_sign - Prints the sign of a numeric character.
- * @c: The number to be checked.
+ * @n: The number to be checked.
  * Return: 1 for positive num, -1 for neg. num or zero for anything else.
  */
 
