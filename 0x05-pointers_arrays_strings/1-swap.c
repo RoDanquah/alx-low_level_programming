@@ -3,7 +3,7 @@
 
 /**
  * swap_int - Swaps the values of 2 intergers.
- * @a: The 1st integer to be swapped. 
+ * @a: The 1st integer to be swapped.
  * @b: The 2nd integer to be swapped.
  *
  *
