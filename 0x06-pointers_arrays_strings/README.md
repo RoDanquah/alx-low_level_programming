@@ -18,6 +18,7 @@ Below is a name list of C files containing fuctions that perform specific tasks.
 - The function works exactly like strcmp.
 
 **4-rev_array.c :** Contains a Function that reverses the content of an array of integers.                                     
+
 **5-string_toupper.c :** Contains a Function that changes all lowercase letters of a string to uppercase..
 
 **6-cap_string.c :** Contanis a Function that capitalizes all words of a string.  
