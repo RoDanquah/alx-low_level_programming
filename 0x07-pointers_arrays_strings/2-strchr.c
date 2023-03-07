@@ -2,7 +2,7 @@
 /**
  * _strchr - prints from the first occurrence of a char in a string.
  * @s: source string
- * @c: target character 
+ * @c: target character
  *
  * Return: new string.
  */
@@ -23,4 +23,3 @@ char *_strchr(char *s, char c)
 	else
 		return (0);
 }
-
